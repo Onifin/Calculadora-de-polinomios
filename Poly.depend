@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1663972792 source:c:\users\iann9\onedrive\documentos\atividades pa\poly\main.cpp
+	<iostream>
+	<string>
+	"Poly.h"
+
+1663912694 c:\users\iann9\onedrive\documentos\atividades pa\poly\poly.h
+	<string>
+
+1663972483 source:c:\users\iann9\onedrive\documentos\atividades pa\poly\poly.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<fstream>
+	"poly.h"
+
